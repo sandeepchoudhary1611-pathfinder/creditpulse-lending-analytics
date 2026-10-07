@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+
+# Databases & Large Data (preserve schema & processed summaries)
+*.db
+*.sqlite3
+data/creditpulse.db
+
+# Large raw CSV files
+data/raw/fact_repayment_schedule.csv
+data/raw/dim_borrowers.csv
+data/raw/fact_loan_originations.csv
+data/raw/fact_bureau_inquiries.csv
+data/processed/scored_loans_underwriting.csv
+
+# Keep directory structure
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# IDEs & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

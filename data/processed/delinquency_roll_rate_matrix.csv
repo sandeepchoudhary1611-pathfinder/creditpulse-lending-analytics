@@ -1,0 +1,312 @@
+snapshot_month,bucket_t0,bucket_t1,loan_count,exposure_at_risk_inr,count_roll_rate_pct,volume_roll_rate_pct,transition_behavior
+2025-12,0_Current,5_Settled_or_Matured,27491,2915808137.7,100.0,100.0,Other Migration
+2025-12,1_DPD_1_30,5_Settled_or_Matured,3171,372884944.02,100.0,100.0,Other Migration
+2025-12,2_DPD_31_60,5_Settled_or_Matured,1516,183466885.45,100.0,100.0,Other Migration
+2025-12,3_DPD_61_90,5_Settled_or_Matured,1138,146271021.61,100.0,100.0,Other Migration
+2025-12,4_DPD_90_Plus,5_Settled_or_Matured,8792,1394287174.67,100.0,100.0,Other Migration
+2025-11,0_Current,0_Current,24496,2738077867.33,87.26,89.7,Stable (Same Bucket)
+2025-11,0_Current,1_DPD_1_30,2672,312243467.39,9.52,10.23,Other Migration
+2025-11,0_Current,5_Settled_or_Matured,903,2175052.57,3.22,0.07,Other Migration
+2025-11,1_DPD_1_30,0_Current,1803,216766488.88,52.46,53.94,Cure (Resolved)
+2025-11,1_DPD_1_30,2_DPD_31_60,1516,183466885.45,44.11,45.65,Roll-Forward (Worsened)
+2025-11,1_DPD_1_30,5_Settled_or_Matured,118,1644738.15,3.43,0.41,Other Migration
+2025-11,2_DPD_31_60,0_Current,22,2578667.1,1.54,1.46,Other Migration
+2025-11,2_DPD_31_60,1_DPD_1_30,227,26650691.64,15.84,15.09,Other Migration
+2025-11,2_DPD_31_60,3_DPD_61_90,1138,146271021.61,79.41,82.82,Roll-Forward (Worsened)
+2025-11,2_DPD_31_60,5_Settled_or_Matured,46,1109868.33,3.21,0.63,Other Migration
+2025-11,3_DPD_61_90,1_DPD_1_30,121,16967651.56,11.08,12.14,Other Migration
+2025-11,3_DPD_61_90,4_DPD_90_Plus,917,120507845.85,83.97,86.24,Default Impairment
+2025-11,3_DPD_61_90,5_Settled_or_Matured,54,2255649.48,4.95,1.61,Other Migration
+2025-11,4_DPD_90_Plus,4_DPD_90_Plus,7875,1273779328.82,94.74,96.49,Stable (Same Bucket)
+2025-11,4_DPD_90_Plus,5_Settled_or_Matured,437,46360889.28,5.26,3.51,Other Migration
+2025-10,0_Current,0_Current,23867,2685874202.36,86.41,89.47,Stable (Same Bucket)
+2025-10,0_Current,1_DPD_1_30,2737,313072183.12,9.91,10.43,Other Migration
+2025-10,0_Current,5_Settled_or_Matured,1016,3026331.99,3.68,0.1,Other Migration
+2025-10,1_DPD_1_30,0_Current,1763,221835763.21,53.05,55.43,Cure (Resolved)
+2025-10,1_DPD_1_30,2_DPD_31_60,1433,176610248.68,43.12,44.13,Roll-Forward (Worsened)
+2025-10,1_DPD_1_30,5_Settled_or_Matured,127,1784824.38,3.82,0.45,Other Migration
+2025-10,2_DPD_31_60,0_Current,15,1797426.22,1.04,1.0,Other Migration
+2025-10,2_DPD_31_60,1_DPD_1_30,281,36961270.71,19.42,20.52,Other Migration
+2025-10,2_DPD_31_60,3_DPD_61_90,1092,139731146.89,75.47,77.58,Roll-Forward (Worsened)
+2025-10,2_DPD_31_60,5_Settled_or_Matured,59,1619687.83,4.08,0.9,Other Migration
+2025-10,3_DPD_61_90,1_DPD_1_30,115,17007589.26,10.97,12.54,Other Migration
+2025-10,3_DPD_61_90,4_DPD_90_Plus,884,116752210.88,84.35,86.08,Default Impairment
+2025-10,3_DPD_61_90,5_Settled_or_Matured,49,1875696.87,4.68,1.38,Other Migration
+2025-10,4_DPD_90_Plus,4_DPD_90_Plus,7428,1203388007.22,94.93,96.5,Stable (Same Bucket)
+2025-10,4_DPD_90_Plus,5_Settled_or_Matured,397,43615229.25,5.07,3.5,Other Migration
+2025-09,0_Current,0_Current,23634,2665445551.29,86.83,89.28,Stable (Same Bucket)
+2025-09,0_Current,1_DPD_1_30,2650,317643820.22,9.74,10.64,Other Migration
+2025-09,0_Current,5_Settled_or_Matured,936,2433518.04,3.44,0.08,Other Migration
+2025-09,1_DPD_1_30,0_Current,1697,211381531.09,51.96,53.77,Cure (Resolved)
+2025-09,1_DPD_1_30,2_DPD_31_60,1447,180109531.65,44.3,45.81,Roll-Forward (Worsened)
+2025-09,1_DPD_1_30,5_Settled_or_Matured,122,1656527.71,3.74,0.42,Other Migration
+2025-09,2_DPD_31_60,0_Current,19,1883333.61,1.38,1.1,Other Migration
+2025-09,2_DPD_31_60,1_DPD_1_30,257,32710349.67,18.73,19.09,Other Migration
+2025-09,2_DPD_31_60,3_DPD_61_90,1048,135635497.01,76.38,79.15,Roll-Forward (Worsened)
+2025-09,2_DPD_31_60,5_Settled_or_Matured,48,1132045.59,3.5,0.66,Other Migration
+2025-09,3_DPD_61_90,1_DPD_1_30,117,14494609.42,10.89,10.56,Other Migration
+2025-09,3_DPD_61_90,4_DPD_90_Plus,910,121193099.32,84.73,88.32,Default Impairment
+2025-09,3_DPD_61_90,5_Settled_or_Matured,47,1534384.77,4.38,1.12,Other Migration
+2025-09,4_DPD_90_Plus,4_DPD_90_Plus,6915,1125810137.15,94.16,95.89,Stable (Same Bucket)
+2025-09,4_DPD_90_Plus,5_Settled_or_Matured,429,48312295.53,5.84,4.11,Other Migration
+2025-08,0_Current,0_Current,23082,2612922908.55,86.78,89.52,Stable (Same Bucket)
+2025-08,0_Current,1_DPD_1_30,2572,302937122.68,9.67,10.38,Other Migration
+2025-08,0_Current,5_Settled_or_Matured,943,3102793.58,3.55,0.11,Other Migration
+2025-08,1_DPD_1_30,0_Current,1666,214027072.89,52.86,55.29,Cure (Resolved)
+2025-08,1_DPD_1_30,2_DPD_31_60,1372,171361225.88,43.53,44.27,Roll-Forward (Worsened)
+2025-08,1_DPD_1_30,5_Settled_or_Matured,114,1678156.9,3.62,0.43,Other Migration
+2025-08,2_DPD_31_60,0_Current,20,2514920.4,1.45,1.49,Other Migration
+2025-08,2_DPD_31_60,1_DPD_1_30,228,27562307.36,16.57,16.33,Other Migration
+2025-08,2_DPD_31_60,3_DPD_61_90,1074,137222093.51,78.05,81.32,Roll-Forward (Worsened)
+2025-08,2_DPD_31_60,5_Settled_or_Matured,54,1433850.06,3.92,0.85,Other Migration
+2025-08,3_DPD_61_90,1_DPD_1_30,140,19662768.77,13.77,14.26,Other Migration
+2025-08,3_DPD_61_90,4_DPD_90_Plus,834,116980512.71,82.01,84.85,Default Impairment
+2025-08,3_DPD_61_90,5_Settled_or_Matured,43,1226720.43,4.23,0.89,Other Migration
+2025-08,4_DPD_90_Plus,4_DPD_90_Plus,6510,1057141919.97,93.74,95.56,Stable (Same Bucket)
+2025-08,4_DPD_90_Plus,5_Settled_or_Matured,435,49131116.14,6.26,4.44,Other Migration
+2025-07,0_Current,0_Current,22538,2561286758.78,86.68,89.38,Stable (Same Bucket)
+2025-07,0_Current,1_DPD_1_30,2487,301261021.07,9.56,10.51,Other Migration
+2025-07,0_Current,5_Settled_or_Matured,977,2907504.35,3.76,0.1,Other Migration
+2025-07,1_DPD_1_30,0_Current,1625,200675857.8,51.74,54.0,Cure (Resolved)
+2025-07,1_DPD_1_30,2_DPD_31_60,1376,168733171.33,43.81,45.41,Roll-Forward (Worsened)
+2025-07,1_DPD_1_30,5_Settled_or_Matured,140,2193185.08,4.46,0.59,Other Migration
+2025-07,2_DPD_31_60,0_Current,19,1779308.84,1.42,1.04,Other Migration
+2025-07,2_DPD_31_60,1_DPD_1_30,236,28857369.15,17.65,16.94,Other Migration
+2025-07,2_DPD_31_60,3_DPD_61_90,1017,137870001.91,76.07,80.91,Roll-Forward (Worsened)
+2025-07,2_DPD_31_60,5_Settled_or_Matured,65,1893414.32,4.86,1.11,Other Migration
+2025-07,3_DPD_61_90,1_DPD_1_30,117,15680979.14,11.64,12.37,Other Migration
+2025-07,3_DPD_61_90,4_DPD_90_Plus,839,109333588.93,83.48,86.23,Default Impairment
+2025-07,3_DPD_61_90,5_Settled_or_Matured,49,1784331.53,4.88,1.41,Other Migration
+2025-07,4_DPD_90_Plus,4_DPD_90_Plus,6106,996939447.18,93.48,95.69,Stable (Same Bucket)
+2025-07,4_DPD_90_Plus,5_Settled_or_Matured,426,44891914.5,6.52,4.31,Other Migration
+2025-06,0_Current,0_Current,21987,2521460263.24,87.44,89.82,Stable (Same Bucket)
+2025-06,0_Current,1_DPD_1_30,2446,284256727.63,9.73,10.13,Other Migration
+2025-06,0_Current,5_Settled_or_Matured,711,1660395.14,2.83,0.06,Other Migration
+2025-06,1_DPD_1_30,0_Current,1620,201378608.14,53.39,54.05,Cure (Resolved)
+2025-06,1_DPD_1_30,2_DPD_31_60,1337,170400094.22,44.07,45.74,Roll-Forward (Worsened)
+2025-06,1_DPD_1_30,5_Settled_or_Matured,77,766422.79,2.54,0.21,Other Migration
+2025-06,2_DPD_31_60,0_Current,21,2918340.23,1.59,1.82,Other Migration
+2025-06,2_DPD_31_60,1_DPD_1_30,256,29587501.29,19.39,18.46,Other Migration
+2025-06,2_DPD_31_60,3_DPD_61_90,1005,126798899.6,76.14,79.1,Roll-Forward (Worsened)
+2025-06,2_DPD_31_60,5_Settled_or_Matured,38,989755.94,2.88,0.62,Other Migration
+2025-06,3_DPD_61_90,1_DPD_1_30,113,15603294.92,11.41,11.62,Other Migration
+2025-06,3_DPD_61_90,4_DPD_90_Plus,842,117544518.68,85.05,87.55,Default Impairment
+2025-06,3_DPD_61_90,5_Settled_or_Matured,35,1107903.24,3.54,0.83,Other Migration
+2025-06,4_DPD_90_Plus,4_DPD_90_Plus,5690,924286843.0,96.65,97.96,Stable (Same Bucket)
+2025-06,4_DPD_90_Plus,5_Settled_or_Matured,197,19203234.29,3.35,2.04,Other Migration
+2025-05,0_Current,0_Current,21196,2455862851.22,87.31,89.52,Stable (Same Bucket)
+2025-05,0_Current,1_DPD_1_30,2375,286263593.9,9.78,10.43,Other Migration
+2025-05,0_Current,5_Settled_or_Matured,707,1354059.95,2.91,0.05,Other Migration
+2025-05,1_DPD_1_30,0_Current,1572,197572555.84,52.49,54.95,Cure (Resolved)
+2025-05,1_DPD_1_30,2_DPD_31_60,1320,160294497.06,44.07,44.58,Roll-Forward (Worsened)
+2025-05,1_DPD_1_30,5_Settled_or_Matured,103,1659426.21,3.44,0.46,Other Migration
+2025-05,2_DPD_31_60,0_Current,21,2289700.0,1.64,1.37,Other Migration
+2025-05,2_DPD_31_60,1_DPD_1_30,223,29785427.59,17.44,17.8,Other Migration
+2025-05,2_DPD_31_60,3_DPD_61_90,990,134255716.84,77.4,80.21,Roll-Forward (Worsened)
+2025-05,2_DPD_31_60,5_Settled_or_Matured,45,1047728.26,3.52,0.63,Other Migration
+2025-05,3_DPD_61_90,1_DPD_1_30,100,13190033.47,11.17,10.15,Other Migration
+2025-05,3_DPD_61_90,4_DPD_90_Plus,770,115995785.23,86.03,89.23,Default Impairment
+2025-05,3_DPD_61_90,5_Settled_or_Matured,25,805119.39,2.79,0.62,Other Migration
+2025-05,4_DPD_90_Plus,4_DPD_90_Plus,5117,827494292.06,95.77,97.52,Stable (Same Bucket)
+2025-05,4_DPD_90_Plus,5_Settled_or_Matured,226,21056224.62,4.23,2.48,Other Migration
+2025-04,0_Current,0_Current,20420,2404552428.7,87.19,89.86,Stable (Same Bucket)
+2025-04,0_Current,1_DPD_1_30,2321,270203505.56,9.91,10.1,Other Migration
+2025-04,0_Current,5_Settled_or_Matured,679,1093927.39,2.9,0.04,Other Migration
+2025-04,1_DPD_1_30,0_Current,1516,187113582.39,52.49,52.59,Cure (Resolved)
+2025-04,1_DPD_1_30,2_DPD_31_60,1279,167378572.69,44.29,47.04,Roll-Forward (Worsened)
+2025-04,1_DPD_1_30,5_Settled_or_Matured,93,1305012.18,3.22,0.37,Other Migration
+2025-04,2_DPD_31_60,0_Current,14,2440714.38,1.16,1.47,Other Migration
+2025-04,2_DPD_31_60,1_DPD_1_30,244,32421720.21,20.28,19.51,Other Migration
+2025-04,2_DPD_31_60,3_DPD_61_90,895,129990938.09,74.4,78.22,Roll-Forward (Worsened)
+2025-04,2_DPD_31_60,5_Settled_or_Matured,50,1335054.98,4.16,0.8,Other Migration
+2025-04,3_DPD_61_90,1_DPD_1_30,117,16030803.85,12.0,12.12,Other Migration
+2025-04,3_DPD_61_90,4_DPD_90_Plus,815,114640772.57,83.59,86.65,Default Impairment
+2025-04,3_DPD_61_90,5_Settled_or_Matured,43,1638788.28,4.41,1.24,Other Migration
+2025-04,4_DPD_90_Plus,4_DPD_90_Plus,4528,733909744.11,95.25,97.35,Stable (Same Bucket)
+2025-04,4_DPD_90_Plus,5_Settled_or_Matured,226,19976126.6,4.75,2.65,Other Migration
+2025-03,0_Current,0_Current,19672,2329831981.25,86.66,89.23,Stable (Same Bucket)
+2025-03,0_Current,1_DPD_1_30,2283,279238086.97,10.06,10.69,Other Migration
+2025-03,0_Current,5_Settled_or_Matured,744,1945229.04,3.28,0.07,Other Migration
+2025-03,1_DPD_1_30,0_Current,1440,184004631.23,52.59,52.38,Cure (Resolved)
+2025-03,1_DPD_1_30,2_DPD_31_60,1203,166188427.66,43.94,47.31,Roll-Forward (Worsened)
+2025-03,1_DPD_1_30,5_Settled_or_Matured,95,1106663.76,3.47,0.32,Other Migration
+2025-03,2_DPD_31_60,0_Current,14,1622555.74,1.15,1.01,Other Migration
+2025-03,2_DPD_31_60,1_DPD_1_30,202,26368620.7,16.53,16.38,Other Migration
+2025-03,2_DPD_31_60,3_DPD_61_90,975,132310364.7,79.79,82.21,Roll-Forward (Worsened)
+2025-03,2_DPD_31_60,5_Settled_or_Matured,31,647306.87,2.54,0.4,Other Migration
+2025-03,3_DPD_61_90,1_DPD_1_30,109,14146723.22,12.99,12.57,Other Migration
+2025-03,3_DPD_61_90,4_DPD_90_Plus,695,97219235.53,82.84,86.37,Default Impairment
+2025-03,3_DPD_61_90,5_Settled_or_Matured,35,1193699.77,4.17,1.06,Other Migration
+2025-03,4_DPD_90_Plus,4_DPD_90_Plus,4059,656666635.18,94.9,97.18,Stable (Same Bucket)
+2025-03,4_DPD_90_Plus,5_Settled_or_Matured,218,19043823.25,5.1,2.82,Other Migration
+2025-02,0_Current,0_Current,19061,2266790042.68,86.99,89.12,Stable (Same Bucket)
+2025-02,0_Current,1_DPD_1_30,2186,275571550.52,9.98,10.83,Other Migration
+2025-02,0_Current,5_Settled_or_Matured,664,1303205.5,3.03,0.05,Other Migration
+2025-02,1_DPD_1_30,0_Current,1390,184453546.72,51.29,53.22,Cure (Resolved)
+2025-02,1_DPD_1_30,2_DPD_31_60,1222,160948848.01,45.09,46.44,Roll-Forward (Worsened)
+2025-02,1_DPD_1_30,5_Settled_or_Matured,98,1173433.92,3.62,0.34,Other Migration
+2025-02,2_DPD_31_60,0_Current,13,2306753.4,1.19,1.62,Other Migration
+2025-02,2_DPD_31_60,1_DPD_1_30,194,26579902.42,17.78,18.65,Other Migration
+2025-02,2_DPD_31_60,3_DPD_61_90,839,112559658.52,76.9,78.96,Roll-Forward (Worsened)
+2025-02,2_DPD_31_60,5_Settled_or_Matured,45,1108814.65,4.12,0.78,Other Migration
+2025-02,3_DPD_61_90,1_DPD_1_30,90,13982579.04,10.79,11.94,Other Migration
+2025-02,3_DPD_61_90,4_DPD_90_Plus,711,102071805.02,85.25,87.14,Default Impairment
+2025-02,3_DPD_61_90,5_Settled_or_Matured,33,1084797.4,3.96,0.93,Other Migration
+2025-02,4_DPD_90_Plus,4_DPD_90_Plus,3566,573638653.41,94.14,96.61,Stable (Same Bucket)
+2025-02,4_DPD_90_Plus,5_Settled_or_Matured,222,20115521.49,5.86,3.39,Other Migration
+2025-01,0_Current,0_Current,18160,2185496652.64,86.43,89.15,Stable (Same Bucket)
+2025-01,0_Current,1_DPD_1_30,2121,264368858.18,10.09,10.78,Other Migration
+2025-01,0_Current,5_Settled_or_Matured,731,1510570.11,3.48,0.06,Other Migration
+2025-01,1_DPD_1_30,0_Current,1402,181125966.37,54.28,55.77,Cure (Resolved)
+2025-01,1_DPD_1_30,2_DPD_31_60,1091,142555128.99,42.24,43.89,Roll-Forward (Worsened)
+2025-01,1_DPD_1_30,5_Settled_or_Matured,90,1103171.06,3.48,0.34,Other Migration
+2025-01,2_DPD_31_60,0_Current,16,1495315.82,1.47,1.02,Other Migration
+2025-01,2_DPD_31_60,1_DPD_1_30,192,27154660.66,17.63,18.48,Other Migration
+2025-01,2_DPD_31_60,3_DPD_61_90,834,117139181.46,76.58,79.71,Roll-Forward (Worsened)
+2025-01,2_DPD_31_60,5_Settled_or_Matured,47,1167970.9,4.32,0.79,Other Migration
+2025-01,3_DPD_61_90,1_DPD_1_30,86,12463655.48,10.13,10.67,Other Migration
+2025-01,3_DPD_61_90,4_DPD_90_Plus,725,102987716.97,85.39,88.19,Default Impairment
+2025-01,3_DPD_61_90,5_Settled_or_Matured,38,1329605.99,4.48,1.14,Other Migration
+2025-01,4_DPD_90_Plus,4_DPD_90_Plus,3063,490766457.93,93.5,96.16,Stable (Same Bucket)
+2025-01,4_DPD_90_Plus,5_Settled_or_Matured,213,19588382.0,6.5,3.84,Other Migration
+2024-12,0_Current,0_Current,17199,2071581484.88,88.1,89.31,Stable (Same Bucket)
+2024-12,0_Current,1_DPD_1_30,1989,247640186.78,10.19,10.68,Other Migration
+2024-12,0_Current,5_Settled_or_Matured,335,223780.84,1.72,0.01,Other Migration
+2024-12,1_DPD_1_30,0_Current,1383,182437370.06,55.08,55.3,Cure (Resolved)
+2024-12,1_DPD_1_30,2_DPD_31_60,1089,146957128.84,43.37,44.55,Roll-Forward (Worsened)
+2024-12,1_DPD_1_30,5_Settled_or_Matured,39,494970.89,1.55,0.15,Other Migration
+2024-12,2_DPD_31_60,0_Current,8,692102.39,0.75,0.49,Other Migration
+2024-12,2_DPD_31_60,1_DPD_1_30,195,24849392.92,18.22,17.42,Other Migration
+2024-12,2_DPD_31_60,3_DPD_61_90,849,116780978.44,79.35,81.85,Roll-Forward (Worsened)
+2024-12,2_DPD_31_60,5_Settled_or_Matured,18,355246.86,1.68,0.25,Other Migration
+2024-12,3_DPD_61_90,1_DPD_1_30,85,11988756.83,11.3,10.74,Other Migration
+2024-12,3_DPD_61_90,4_DPD_90_Plus,648,99029318.57,86.17,88.69,Default Impairment
+2024-12,3_DPD_61_90,5_Settled_or_Matured,19,637841.39,2.53,0.57,Other Migration
+2024-12,4_DPD_90_Plus,4_DPD_90_Plus,2628,411325521.36,99.13,99.81,Stable (Same Bucket)
+2024-12,4_DPD_90_Plus,5_Settled_or_Matured,23,794545.87,0.87,0.19,Other Migration
+2024-11,0_Current,0_Current,16058,1975081802.44,87.59,88.81,Stable (Same Bucket)
+2024-11,0_Current,1_DPD_1_30,1937,248710745.98,10.57,11.18,Other Migration
+2024-11,0_Current,5_Settled_or_Matured,339,231656.9,1.85,0.01,Other Migration
+2024-11,1_DPD_1_30,0_Current,1153,149727673.62,50.73,51.13,Cure (Resolved)
+2024-11,1_DPD_1_30,2_DPD_31_60,1070,142677720.61,47.07,48.72,Roll-Forward (Worsened)
+2024-11,1_DPD_1_30,5_Settled_or_Matured,50,446274.43,2.2,0.15,Other Migration
+2024-11,2_DPD_31_60,0_Current,12,1579015.52,1.25,1.13,Other Migration
+2024-11,2_DPD_31_60,1_DPD_1_30,176,26241445.13,18.39,18.78,Other Migration
+2024-11,2_DPD_31_60,3_DPD_61_90,752,111655916.79,78.58,79.91,Roll-Forward (Worsened)
+2024-11,2_DPD_31_60,5_Settled_or_Matured,17,255451.61,1.78,0.18,Other Migration
+2024-11,3_DPD_61_90,1_DPD_1_30,83,11497086.1,11.62,11.1,Other Migration
+2024-11,3_DPD_61_90,4_DPD_90_Plus,612,91360548.46,85.71,88.23,Default Impairment
+2024-11,3_DPD_61_90,5_Settled_or_Matured,19,686244.8,2.66,0.66,Other Migration
+2024-11,4_DPD_90_Plus,4_DPD_90_Plus,2039,320759518.77,98.88,99.71,Stable (Same Bucket)
+2024-11,4_DPD_90_Plus,5_Settled_or_Matured,23,924163.56,1.12,0.29,Other Migration
+2024-10,0_Current,0_Current,14709,1854826760.71,87.74,89.1,Stable (Same Bucket)
+2024-10,0_Current,1_DPD_1_30,1753,226626860.07,10.46,10.89,Other Migration
+2024-10,0_Current,5_Settled_or_Matured,303,176544.95,1.81,0.01,Other Migration
+2024-10,1_DPD_1_30,0_Current,1156,158360158.41,53.74,53.05,Cure (Resolved)
+2024-10,1_DPD_1_30,2_DPD_31_60,957,139731829.05,44.49,46.81,Roll-Forward (Worsened)
+2024-10,1_DPD_1_30,5_Settled_or_Matured,38,401356.03,1.77,0.13,Other Migration
+2024-10,2_DPD_31_60,0_Current,6,748430.66,0.66,0.59,Other Migration
+2024-10,2_DPD_31_60,1_DPD_1_30,167,21755391.41,18.43,17.21,Other Migration
+2024-10,2_DPD_31_60,3_DPD_61_90,714,103543879.36,78.81,81.92,Roll-Forward (Worsened)
+2024-10,2_DPD_31_60,5_Settled_or_Matured,19,354422.23,2.1,0.28,Other Migration
+2024-10,3_DPD_61_90,1_DPD_1_30,65,8496106.99,11.25,10.44,Other Migration
+2024-10,3_DPD_61_90,4_DPD_90_Plus,492,72428822.44,85.12,89.02,Default Impairment
+2024-10,3_DPD_61_90,5_Settled_or_Matured,21,438954.16,3.63,0.54,Other Migration
+2024-10,4_DPD_90_Plus,4_DPD_90_Plus,1570,249254859.89,98.49,99.66,Stable (Same Bucket)
+2024-10,4_DPD_90_Plus,5_Settled_or_Matured,24,855858.49,1.51,0.34,Other Migration
+2024-09,0_Current,0_Current,13376,1727539989.68,87.28,88.53,Stable (Same Bucket)
+2024-09,0_Current,1_DPD_1_30,1641,223644910.21,10.71,11.46,Other Migration
+2024-09,0_Current,5_Settled_or_Matured,308,262243.82,2.01,0.01,Other Migration
+2024-09,1_DPD_1_30,0_Current,1055,142967190.84,52.67,52.98,Cure (Resolved)
+2024-09,1_DPD_1_30,2_DPD_31_60,906,126402123.66,45.23,46.84,Roll-Forward (Worsened)
+2024-09,1_DPD_1_30,5_Settled_or_Matured,42,476767.09,2.1,0.18,Other Migration
+2024-09,2_DPD_31_60,0_Current,6,1099751.26,0.8,1.06,Other Migration
+2024-09,2_DPD_31_60,1_DPD_1_30,142,20660468.8,18.91,19.93,Other Migration
+2024-09,2_DPD_31_60,3_DPD_61_90,578,81363883.59,76.96,78.47,Roll-Forward (Worsened)
+2024-09,2_DPD_31_60,5_Settled_or_Matured,25,563722.85,3.33,0.54,Other Migration
+2024-09,3_DPD_61_90,1_DPD_1_30,50,8286667.39,9.17,10.09,Other Migration
+2024-09,3_DPD_61_90,4_DPD_90_Plus,467,72955500.96,85.69,88.87,Default Impairment
+2024-09,3_DPD_61_90,5_Settled_or_Matured,28,848860.62,5.14,1.03,Other Migration
+2024-09,4_DPD_90_Plus,4_DPD_90_Plus,1127,177155217.42,96.99,99.28,Stable (Same Bucket)
+2024-09,4_DPD_90_Plus,5_Settled_or_Matured,35,1286387.21,3.01,0.72,Other Migration
+2024-08,0_Current,0_Current,11976,1574735284.78,86.56,88.88,Stable (Same Bucket)
+2024-08,0_Current,1_DPD_1_30,1514,196870168.5,10.94,11.11,Other Migration
+2024-08,0_Current,5_Settled_or_Matured,345,204468.59,2.49,0.01,Other Migration
+2024-08,1_DPD_1_30,0_Current,928,133394142.14,53.3,56.11,Cure (Resolved)
+2024-08,1_DPD_1_30,2_DPD_31_60,751,103687826.5,43.14,43.61,Roll-Forward (Worsened)
+2024-08,1_DPD_1_30,5_Settled_or_Matured,62,658598.63,3.56,0.28,Other Migration
+2024-08,2_DPD_31_60,0_Current,8,579133.32,1.16,0.58,Other Migration
+2024-08,2_DPD_31_60,1_DPD_1_30,107,16543464.59,15.57,16.58,Other Migration
+2024-08,2_DPD_31_60,3_DPD_61_90,545,82091028.97,79.33,82.29,Roll-Forward (Worsened)
+2024-08,2_DPD_31_60,5_Settled_or_Matured,27,547732.22,3.93,0.55,Other Migration
+2024-08,3_DPD_61_90,1_DPD_1_30,47,8081224.23,9.81,12.28,Other Migration
+2024-08,3_DPD_61_90,4_DPD_90_Plus,408,57042762.02,85.18,86.66,Default Impairment
+2024-08,3_DPD_61_90,5_Settled_or_Matured,24,697537.81,5.01,1.06,Other Migration
+2024-08,4_DPD_90_Plus,4_DPD_90_Plus,754,121398842.61,97.54,99.43,Stable (Same Bucket)
+2024-08,4_DPD_90_Plus,5_Settled_or_Matured,19,696406.14,2.46,0.57,Other Migration
+2024-07,0_Current,0_Current,10534,1391796858.93,86.62,88.89,Stable (Same Bucket)
+2024-07,0_Current,1_DPD_1_30,1292,173772237.52,10.62,11.1,Other Migration
+2024-07,0_Current,5_Settled_or_Matured,335,233606.26,2.75,0.01,Other Migration
+2024-07,1_DPD_1_30,0_Current,869,127533999.42,54.18,55.98,Cure (Resolved)
+2024-07,1_DPD_1_30,2_DPD_31_60,687,99761359.1,42.83,43.79,Roll-Forward (Worsened)
+2024-07,1_DPD_1_30,5_Settled_or_Matured,48,531370.35,2.99,0.23,Other Migration
+2024-07,2_DPD_31_60,0_Current,5,774788.23,0.82,0.96,Other Migration
+2024-07,2_DPD_31_60,1_DPD_1_30,99,13349408.38,16.26,16.59,Other Migration
+2024-07,2_DPD_31_60,3_DPD_61_90,479,65821524.06,78.65,81.79,Roll-Forward (Worsened)
+2024-07,2_DPD_31_60,5_Settled_or_Matured,26,534206.41,4.27,0.66,Other Migration
+2024-07,3_DPD_61_90,1_DPD_1_30,45,7291814.19,12.5,13.93,Other Migration
+2024-07,3_DPD_61_90,4_DPD_90_Plus,298,44479805.02,82.78,84.99,Default Impairment
+2024-07,3_DPD_61_90,5_Settled_or_Matured,17,566382.51,4.72,1.08,Other Migration
+2024-07,4_DPD_90_Plus,4_DPD_90_Plus,475,77615443.73,94.62,98.79,Stable (Same Bucket)
+2024-07,4_DPD_90_Plus,5_Settled_or_Matured,27,949819.82,5.38,1.21,Other Migration
+2024-06,0_Current,0_Current,9187,1219302232.77,87.3,88.15,Stable (Same Bucket)
+2024-06,0_Current,1_DPD_1_30,1164,163898798.26,11.06,11.85,Other Migration
+2024-06,0_Current,5_Settled_or_Matured,173,76816.32,1.64,0.01,Other Migration
+2024-06,1_DPD_1_30,0_Current,693,102649372.68,52.18,55.94,Cure (Resolved)
+2024-06,1_DPD_1_30,2_DPD_31_60,609,80479927.08,45.86,43.86,Roll-Forward (Worsened)
+2024-06,1_DPD_1_30,5_Settled_or_Matured,26,353452.34,1.96,0.19,Other Migration
+2024-06,2_DPD_31_60,0_Current,6,1129848.63,1.3,1.71,Other Migration
+2024-06,2_DPD_31_60,1_DPD_1_30,90,12563877.18,19.44,18.99,Other Migration
+2024-06,2_DPD_31_60,3_DPD_61_90,360,52338001.72,77.75,79.1,Roll-Forward (Worsened)
+2024-06,2_DPD_31_60,5_Settled_or_Matured,7,133895.84,1.51,0.2,Other Migration
+2024-06,3_DPD_61_90,1_DPD_1_30,33,4556365.99,11.54,11.67,Other Migration
+2024-06,3_DPD_61_90,4_DPD_90_Plus,240,33917486.88,83.92,86.86,Default Impairment
+2024-06,3_DPD_61_90,5_Settled_or_Matured,13,575825.1,4.55,1.47,Other Migration
+2024-06,4_DPD_90_Plus,4_DPD_90_Plus,262,44647776.67,100.0,100.0,Stable (Same Bucket)
+2024-05,0_Current,0_Current,7538,1028993520.57,87.12,88.66,Stable (Same Bucket)
+2024-05,0_Current,1_DPD_1_30,959,131576423.06,11.08,11.34,Other Migration
+2024-05,0_Current,5_Settled_or_Matured,155,82514.99,1.79,0.01,Other Migration
+2024-05,1_DPD_1_30,0_Current,573,82452515.64,53.95,55.36,Cure (Resolved)
+2024-05,1_DPD_1_30,2_DPD_31_60,463,66165623.37,43.6,44.42,Roll-Forward (Worsened)
+2024-05,1_DPD_1_30,5_Settled_or_Matured,26,324408.16,2.45,0.22,Other Migration
+2024-05,2_DPD_31_60,0_Current,6,837411.83,1.75,1.82,Other Migration
+2024-05,2_DPD_31_60,1_DPD_1_30,44,5863543.11,12.83,12.76,Other Migration
+2024-05,2_DPD_31_60,3_DPD_61_90,286,39049677.97,83.38,85.0,Roll-Forward (Worsened)
+2024-05,2_DPD_31_60,5_Settled_or_Matured,7,190699.83,2.04,0.42,Other Migration
+2024-05,3_DPD_61_90,1_DPD_1_30,22,2979980.2,10.78,9.29,Other Migration
+2024-05,3_DPD_61_90,4_DPD_90_Plus,174,28774368.8,85.29,89.74,Default Impairment
+2024-05,3_DPD_61_90,5_Settled_or_Matured,8,309455.96,3.92,0.97,Other Migration
+2024-05,4_DPD_90_Plus,4_DPD_90_Plus,88,15873407.87,100.0,100.0,Stable (Same Bucket)
+2024-04,0_Current,0_Current,5910,823696468.09,86.86,89.15,Stable (Same Bucket)
+2024-04,0_Current,1_DPD_1_30,707,100163544.31,10.39,10.84,Other Migration
+2024-04,0_Current,5_Settled_or_Matured,187,103066.06,2.75,0.01,Other Migration
+2024-04,1_DPD_1_30,0_Current,421,59081859.58,53.84,56.12,Cure (Resolved)
+2024-04,1_DPD_1_30,2_DPD_31_60,343,45941332.74,43.86,43.64,Roll-Forward (Worsened)
+2024-04,1_DPD_1_30,5_Settled_or_Matured,18,259469.33,2.3,0.25,Other Migration
+2024-04,2_DPD_31_60,0_Current,2,452624.67,0.75,1.11,Other Migration
+2024-04,2_DPD_31_60,1_DPD_1_30,51,7796029.06,19.1,19.2,Other Migration
+2024-04,2_DPD_31_60,3_DPD_61_90,204,32063804.96,76.4,78.95,Roll-Forward (Worsened)
+2024-04,2_DPD_31_60,5_Settled_or_Matured,10,299307.35,3.75,0.74,Other Migration
+2024-04,3_DPD_61_90,1_DPD_1_30,15,1898332.89,12.82,10.4,Other Migration
+2024-04,3_DPD_61_90,4_DPD_90_Plus,88,15873407.87,75.21,86.92,Default Impairment
+2024-04,3_DPD_61_90,5_Settled_or_Matured,14,489848.51,11.97,2.68,Other Migration
+2024-03,0_Current,0_Current,4109,573858865.85,89.85,90.03,Stable (Same Bucket)
+2024-03,0_Current,1_DPD_1_30,464,63560072.22,10.15,9.97,Other Migration
+2024-03,1_DPD_1_30,0_Current,277,43030929.49,50.92,51.45,Cure (Resolved)
+2024-03,1_DPD_1_30,2_DPD_31_60,267,40611766.04,49.08,48.55,Roll-Forward (Worsened)
+2024-03,2_DPD_31_60,1_DPD_1_30,28,4278178.23,19.31,18.98,Other Migration
+2024-03,2_DPD_31_60,3_DPD_61_90,117,18261589.27,80.69,81.02,Roll-Forward (Worsened)
+2024-02,0_Current,0_Current,2161,307528773.53,89.11,88.35,Stable (Same Bucket)
+2024-02,0_Current,1_DPD_1_30,264,40543168.37,10.89,11.65,Other Migration
+2024-02,1_DPD_1_30,0_Current,151,24207930.86,51.01,51.78,Cure (Resolved)
+2024-02,1_DPD_1_30,2_DPD_31_60,145,22539767.5,48.99,48.22,Roll-Forward (Worsened)

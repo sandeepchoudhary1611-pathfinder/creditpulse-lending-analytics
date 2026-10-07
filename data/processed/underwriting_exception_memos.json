@@ -1,0 +1,657 @@
+[
+  {
+    "loan_id": "LN-0000012",
+    "borrower_id": "BW-017636",
+    "application_date": "2024-03-08",
+    "product_type": "Vehicle Loan",
+    "requested_amount_inr": 70000,
+    "predicted_pd": 0.1288,
+    "internal_score": 760,
+    "underwriting_verdict": "APPROVE_WITH_RISK_COVENANTS",
+    "recommended_sanction_inr": 70000,
+    "compensating_factors": [
+      "Near-prime bureau score (737) indicates historical repayment intent.",
+      "Healthy total debt-to-income (41.1%) within safe debt servicing threshold (<50%).",
+      "Conservative credit line utilization (11.6%) indicates credit headroom.",
+      "Low recent inquiry velocity (1 in last 30d) demonstrates controlled credit seeking."
+    ],
+    "risk_flags": [],
+    "prescribed_policy_covenants": [
+      "Mandate automated e-NACH mandate via Primary Salary Bank Account.",
+      "Apply risk-adjusted pricing premium (+75 bps APR).",
+      "Cap credit limit enhancements for the first 6 months on book."
+    ],
+    "underwriter_memo_narrative": "Strong debt-servicing capacity and clean recent credit discipline offset borderline bureau score.",
+    "evaluation_timestamp": "2026-10-07T21:59:09.405501",
+    "engine": "CreditPulse Heuristic Policy Engine v2.4"
+  },
+  {
+    "loan_id": "LN-0000019",
+    "borrower_id": "BW-049974",
+    "application_date": "2024-08-26",
+    "product_type": "Personal Loan",
+    "requested_amount_inr": 330000,
+    "predicted_pd": 0.2046,
+    "internal_score": 728,
+    "underwriting_verdict": "APPROVE_WITH_RISK_COVENANTS",
+    "recommended_sanction_inr": 330000,
+    "compensating_factors": [
+      "Near-prime bureau score (809) indicates historical repayment intent.",
+      "Healthy total debt-to-income (40.2%) within safe debt servicing threshold (<50%).",
+      "Conservative credit line utilization (9.0%) indicates credit headroom.",
+      "Low recent inquiry velocity (0 in last 30d) demonstrates controlled credit seeking."
+    ],
+    "risk_flags": [],
+    "prescribed_policy_covenants": [
+      "Mandate automated e-NACH mandate via Primary Salary Bank Account.",
+      "Apply risk-adjusted pricing premium (+75 bps APR).",
+      "Cap credit limit enhancements for the first 6 months on book."
+    ],
+    "underwriter_memo_narrative": "Strong debt-servicing capacity and clean recent credit discipline offset borderline bureau score.",
+    "evaluation_timestamp": "2026-10-07T21:59:09.405592",
+    "engine": "CreditPulse Heuristic Policy Engine v2.4"
+  },
+  {
+    "loan_id": "LN-0000029",
+    "borrower_id": "BW-011877",
+    "application_date": "2024-01-25",
+    "product_type": "Buy Now Pay Later",
+    "requested_amount_inr": 70000,
+    "predicted_pd": 0.1682,
+    "internal_score": 742,
+    "underwriting_verdict": "APPROVE_WITH_RISK_COVENANTS",
+    "recommended_sanction_inr": 70000,
+    "compensating_factors": [
+      "Near-prime bureau score (849) indicates historical repayment intent.",
+      "Conservative credit line utilization (10.8%) indicates credit headroom.",
+      "Low recent inquiry velocity (0 in last 30d) demonstrates controlled credit seeking."
+    ],
+    "risk_flags": [
+      "Elevated DTI (48.6%) poses cash flow squeeze during income shocks."
+    ],
+    "prescribed_policy_covenants": [
+      "Mandate automated e-NACH mandate via Primary Salary Bank Account.",
+      "Apply risk-adjusted pricing premium (+75 bps APR).",
+      "Cap credit limit enhancements for the first 6 months on book."
+    ],
+    "underwriter_memo_narrative": "Strong debt-servicing capacity and clean recent credit discipline offset borderline bureau score.",
+    "evaluation_timestamp": "2026-10-07T21:59:09.405655",
+    "engine": "CreditPulse Heuristic Policy Engine v2.4"
+  },
+  {
+    "loan_id": "LN-0000044",
+    "borrower_id": "BW-038885",
+    "application_date": "2024-07-23",
+    "product_type": "Mortgage",
+    "requested_amount_inr": 300000,
+    "predicted_pd": 0.1473,
+    "internal_score": 751,
+    "underwriting_verdict": "APPROVE_WITH_RISK_COVENANTS",
+    "recommended_sanction_inr": 300000,
+    "compensating_factors": [
+      "Near-prime bureau score (739) indicates historical repayment intent.",
+      "Healthy total debt-to-income (41.9%) within safe debt servicing threshold (<50%).",
+      "Conservative credit line utilization (17.0%) indicates credit headroom.",
+      "Low recent inquiry velocity (0 in last 30d) demonstrates controlled credit seeking."
+    ],
+    "risk_flags": [],
+    "prescribed_policy_covenants": [
+      "Mandate automated e-NACH mandate via Primary Salary Bank Account.",
+      "Apply risk-adjusted pricing premium (+75 bps APR).",
+      "Cap credit limit enhancements for the first 6 months on book."
+    ],
+    "underwriter_memo_narrative": "Strong debt-servicing capacity and clean recent credit discipline offset borderline bureau score.",
+    "evaluation_timestamp": "2026-10-07T21:59:09.405713",
+    "engine": "CreditPulse Heuristic Policy Engine v2.4"
+  },
+  {
+    "loan_id": "LN-0000045",
+    "borrower_id": "BW-044008",
+    "application_date": "2025-04-11",
+    "product_type": "Vehicle Loan",
+    "requested_amount_inr": 120000,
+    "predicted_pd": 0.1326,
+    "internal_score": 758,
+    "underwriting_verdict": "APPROVE_WITH_RISK_COVENANTS",
+    "recommended_sanction_inr": 120000,
+    "compensating_factors": [
+      "Near-prime bureau score (727) indicates historical repayment intent.",
+      "Healthy total debt-to-income (34.5%) within safe debt servicing threshold (<50%).",
+      "Conservative credit line utilization (21.6%) indicates credit headroom.",
+      "Low recent inquiry velocity (0 in last 30d) demonstrates controlled credit seeking."
+    ],
+    "risk_flags": [],
+    "prescribed_policy_covenants": [
+      "Mandate automated e-NACH mandate via Primary Salary Bank Account.",
+      "Apply risk-adjusted pricing premium (+75 bps APR).",
+      "Cap credit limit enhancements for the first 6 months on book."
+    ],
+    "underwriter_memo_narrative": "Strong debt-servicing capacity and clean recent credit discipline offset borderline bureau score.",
+    "evaluation_timestamp": "2026-10-07T21:59:09.405768",
+    "engine": "CreditPulse Heuristic Policy Engine v2.4"
+  },
+  {
+    "loan_id": "LN-0000064",
+    "borrower_id": "BW-008091",
+    "application_date": "2024-07-09",
+    "product_type": "Buy Now Pay Later",
+    "requested_amount_inr": 30000,
+    "predicted_pd": 0.2156,
+    "internal_score": 725,
+    "underwriting_verdict": "APPROVE_WITH_RISK_COVENANTS",
+    "recommended_sanction_inr": 30000,
+    "compensating_factors": [
+      "Near-prime bureau score (752) indicates historical repayment intent.",
+      "Healthy total debt-to-income (29.5%) within safe debt servicing threshold (<50%).",
+      "Conservative credit line utilization (23.4%) indicates credit headroom.",
+      "Low recent inquiry velocity (0 in last 30d) demonstrates controlled credit seeking."
+    ],
+    "risk_flags": [],
+    "prescribed_policy_covenants": [
+      "Mandate automated e-NACH mandate via Primary Salary Bank Account.",
+      "Apply risk-adjusted pricing premium (+75 bps APR).",
+      "Cap credit limit enhancements for the first 6 months on book."
+    ],
+    "underwriter_memo_narrative": "Strong debt-servicing capacity and clean recent credit discipline offset borderline bureau score.",
+    "evaluation_timestamp": "2026-10-07T21:59:09.405819",
+    "engine": "CreditPulse Heuristic Policy Engine v2.4"
+  },
+  {
+    "loan_id": "LN-0000078",
+    "borrower_id": "BW-001693",
+    "application_date": "2024-10-02",
+    "product_type": "Vehicle Loan",
+    "requested_amount_inr": 70000,
+    "predicted_pd": 0.1336,
+    "internal_score": 758,
+    "underwriting_verdict": "APPROVE_WITH_RISK_COVENANTS",
+    "recommended_sanction_inr": 70000,
+    "compensating_factors": [
+      "Near-prime bureau score (735) indicates historical repayment intent.",
+      "Healthy total debt-to-income (24.3%) within safe debt servicing threshold (<50%).",
+      "Conservative credit line utilization (33.1%) indicates credit headroom.",
+      "Low recent inquiry velocity (0 in last 30d) demonstrates controlled credit seeking."
+    ],
+    "risk_flags": [],
+    "prescribed_policy_covenants": [
+      "Mandate automated e-NACH mandate via Primary Salary Bank Account.",
+      "Apply risk-adjusted pricing premium (+75 bps APR).",
+      "Cap credit limit enhancements for the first 6 months on book."
+    ],
+    "underwriter_memo_narrative": "Strong debt-servicing capacity and clean recent credit discipline offset borderline bureau score.",
+    "evaluation_timestamp": "2026-10-07T21:59:09.405873",
+    "engine": "CreditPulse Heuristic Policy Engine v2.4"
+  },
+  {
+    "loan_id": "LN-0000087",
+    "borrower_id": "BW-010315",
+    "application_date": "2025-03-05",
+    "product_type": "Vehicle Loan",
+    "requested_amount_inr": 80000,
+    "predicted_pd": 0.1705,
+    "internal_score": 741,
+    "underwriting_verdict": "APPROVE_WITH_RISK_COVENANTS",
+    "recommended_sanction_inr": 80000,
+    "compensating_factors": [
+      "Near-prime bureau score (756) indicates historical repayment intent.",
+      "Healthy total debt-to-income (39.8%) within safe debt servicing threshold (<50%).",
+      "Conservative credit line utilization (27.4%) indicates credit headroom.",
+      "Low recent inquiry velocity (0 in last 30d) demonstrates controlled credit seeking."
+    ],
+    "risk_flags": [],
+    "prescribed_policy_covenants": [
+      "Mandate automated e-NACH mandate via Primary Salary Bank Account.",
+      "Apply risk-adjusted pricing premium (+75 bps APR).",
+      "Cap credit limit enhancements for the first 6 months on book."
+    ],
+    "underwriter_memo_narrative": "Strong debt-servicing capacity and clean recent credit discipline offset borderline bureau score.",
+    "evaluation_timestamp": "2026-10-07T21:59:09.405923",
+    "engine": "CreditPulse Heuristic Policy Engine v2.4"
+  },
+  {
+    "loan_id": "LN-0000088",
+    "borrower_id": "BW-007520",
+    "application_date": "2024-12-28",
+    "product_type": "Buy Now Pay Later",
+    "requested_amount_inr": 45000,
+    "predicted_pd": 0.1472,
+    "internal_score": 751,
+    "underwriting_verdict": "APPROVE_WITH_RISK_COVENANTS",
+    "recommended_sanction_inr": 45000,
+    "compensating_factors": [
+      "Near-prime bureau score (773) indicates historical repayment intent.",
+      "Healthy total debt-to-income (39.9%) within safe debt servicing threshold (<50%).",
+      "Conservative credit line utilization (31.8%) indicates credit headroom.",
+      "Low recent inquiry velocity (0 in last 30d) demonstrates controlled credit seeking."
+    ],
+    "risk_flags": [],
+    "prescribed_policy_covenants": [
+      "Mandate automated e-NACH mandate via Primary Salary Bank Account.",
+      "Apply risk-adjusted pricing premium (+75 bps APR).",
+      "Cap credit limit enhancements for the first 6 months on book."
+    ],
+    "underwriter_memo_narrative": "Strong debt-servicing capacity and clean recent credit discipline offset borderline bureau score.",
+    "evaluation_timestamp": "2026-10-07T21:59:09.405973",
+    "engine": "CreditPulse Heuristic Policy Engine v2.4"
+  },
+  {
+    "loan_id": "LN-0000117",
+    "borrower_id": "BW-044126",
+    "application_date": "2024-10-24",
+    "product_type": "Personal Loan",
+    "requested_amount_inr": 90000,
+    "predicted_pd": 0.152,
+    "internal_score": 749,
+    "underwriting_verdict": "APPROVE_WITH_RISK_COVENANTS",
+    "recommended_sanction_inr": 90000,
+    "compensating_factors": [
+      "Near-prime bureau score (804) indicates historical repayment intent.",
+      "Healthy total debt-to-income (44.9%) within safe debt servicing threshold (<50%).",
+      "Conservative credit line utilization (39.6%) indicates credit headroom.",
+      "Low recent inquiry velocity (0 in last 30d) demonstrates controlled credit seeking."
+    ],
+    "risk_flags": [],
+    "prescribed_policy_covenants": [
+      "Mandate automated e-NACH mandate via Primary Salary Bank Account.",
+      "Apply risk-adjusted pricing premium (+75 bps APR).",
+      "Cap credit limit enhancements for the first 6 months on book."
+    ],
+    "underwriter_memo_narrative": "Strong debt-servicing capacity and clean recent credit discipline offset borderline bureau score.",
+    "evaluation_timestamp": "2026-10-07T21:59:09.406022",
+    "engine": "CreditPulse Heuristic Policy Engine v2.4"
+  },
+  {
+    "loan_id": "LN-0000124",
+    "borrower_id": "BW-025820",
+    "application_date": "2025-01-23",
+    "product_type": "Mortgage",
+    "requested_amount_inr": 315000,
+    "predicted_pd": 0.1917,
+    "internal_score": 733,
+    "underwriting_verdict": "APPROVE_WITH_RISK_COVENANTS",
+    "recommended_sanction_inr": 315000,
+    "compensating_factors": [
+      "Near-prime bureau score (725) indicates historical repayment intent.",
+      "Healthy total debt-to-income (29.8%) within safe debt servicing threshold (<50%).",
+      "Conservative credit line utilization (12.6%) indicates credit headroom.",
+      "Low recent inquiry velocity (0 in last 30d) demonstrates controlled credit seeking."
+    ],
+    "risk_flags": [],
+    "prescribed_policy_covenants": [
+      "Mandate automated e-NACH mandate via Primary Salary Bank Account.",
+      "Apply risk-adjusted pricing premium (+75 bps APR).",
+      "Cap credit limit enhancements for the first 6 months on book."
+    ],
+    "underwriter_memo_narrative": "Strong debt-servicing capacity and clean recent credit discipline offset borderline bureau score.",
+    "evaluation_timestamp": "2026-10-07T21:59:09.406072",
+    "engine": "CreditPulse Heuristic Policy Engine v2.4"
+  },
+  {
+    "loan_id": "LN-0000142",
+    "borrower_id": "BW-030377",
+    "application_date": "2024-02-22",
+    "product_type": "Buy Now Pay Later",
+    "requested_amount_inr": 40000,
+    "predicted_pd": 0.1648,
+    "internal_score": 744,
+    "underwriting_verdict": "APPROVE_WITH_RISK_COVENANTS",
+    "recommended_sanction_inr": 40000,
+    "compensating_factors": [
+      "Near-prime bureau score (766) indicates historical repayment intent.",
+      "Healthy total debt-to-income (31.4%) within safe debt servicing threshold (<50%).",
+      "Conservative credit line utilization (27.4%) indicates credit headroom.",
+      "Low recent inquiry velocity (0 in last 30d) demonstrates controlled credit seeking."
+    ],
+    "risk_flags": [],
+    "prescribed_policy_covenants": [
+      "Mandate automated e-NACH mandate via Primary Salary Bank Account.",
+      "Apply risk-adjusted pricing premium (+75 bps APR).",
+      "Cap credit limit enhancements for the first 6 months on book."
+    ],
+    "underwriter_memo_narrative": "Strong debt-servicing capacity and clean recent credit discipline offset borderline bureau score.",
+    "evaluation_timestamp": "2026-10-07T21:59:09.406124",
+    "engine": "CreditPulse Heuristic Policy Engine v2.4"
+  },
+  {
+    "loan_id": "LN-0000172",
+    "borrower_id": "BW-021706",
+    "application_date": "2024-11-30",
+    "product_type": "Buy Now Pay Later",
+    "requested_amount_inr": 30000,
+    "predicted_pd": 0.2374,
+    "internal_score": 717,
+    "underwriting_verdict": "APPROVE_WITH_RISK_COVENANTS",
+    "recommended_sanction_inr": 30000,
+    "compensating_factors": [
+      "Near-prime bureau score (772) indicates historical repayment intent.",
+      "Healthy total debt-to-income (22.2%) within safe debt servicing threshold (<50%).",
+      "Conservative credit line utilization (17.7%) indicates credit headroom.",
+      "Low recent inquiry velocity (0 in last 30d) demonstrates controlled credit seeking."
+    ],
+    "risk_flags": [],
+    "prescribed_policy_covenants": [
+      "Mandate automated e-NACH mandate via Primary Salary Bank Account.",
+      "Apply risk-adjusted pricing premium (+75 bps APR).",
+      "Cap credit limit enhancements for the first 6 months on book."
+    ],
+    "underwriter_memo_narrative": "Strong debt-servicing capacity and clean recent credit discipline offset borderline bureau score.",
+    "evaluation_timestamp": "2026-10-07T21:59:09.406174",
+    "engine": "CreditPulse Heuristic Policy Engine v2.4"
+  },
+  {
+    "loan_id": "LN-0000173",
+    "borrower_id": "BW-000261",
+    "application_date": "2024-10-24",
+    "product_type": "Vehicle Loan",
+    "requested_amount_inr": 100000,
+    "predicted_pd": 0.1477,
+    "internal_score": 751,
+    "underwriting_verdict": "APPROVE_WITH_RISK_COVENANTS",
+    "recommended_sanction_inr": 100000,
+    "compensating_factors": [
+      "Near-prime bureau score (722) indicates historical repayment intent.",
+      "Healthy total debt-to-income (44.2%) within safe debt servicing threshold (<50%).",
+      "Conservative credit line utilization (30.6%) indicates credit headroom.",
+      "Low recent inquiry velocity (0 in last 30d) demonstrates controlled credit seeking."
+    ],
+    "risk_flags": [],
+    "prescribed_policy_covenants": [
+      "Mandate automated e-NACH mandate via Primary Salary Bank Account.",
+      "Apply risk-adjusted pricing premium (+75 bps APR).",
+      "Cap credit limit enhancements for the first 6 months on book."
+    ],
+    "underwriter_memo_narrative": "Strong debt-servicing capacity and clean recent credit discipline offset borderline bureau score.",
+    "evaluation_timestamp": "2026-10-07T21:59:09.406223",
+    "engine": "CreditPulse Heuristic Policy Engine v2.4"
+  },
+  {
+    "loan_id": "LN-0000183",
+    "borrower_id": "BW-017926",
+    "application_date": "2025-08-15",
+    "product_type": "Vehicle Loan",
+    "requested_amount_inr": 120000,
+    "predicted_pd": 0.1481,
+    "internal_score": 751,
+    "underwriting_verdict": "APPROVE_WITH_RISK_COVENANTS",
+    "recommended_sanction_inr": 120000,
+    "compensating_factors": [
+      "Near-prime bureau score (767) indicates historical repayment intent.",
+      "Conservative credit line utilization (38.6%) indicates credit headroom.",
+      "Low recent inquiry velocity (0 in last 30d) demonstrates controlled credit seeking."
+    ],
+    "risk_flags": [
+      "Elevated DTI (70.1%) poses cash flow squeeze during income shocks."
+    ],
+    "prescribed_policy_covenants": [
+      "Mandate automated e-NACH mandate via Primary Salary Bank Account.",
+      "Apply risk-adjusted pricing premium (+75 bps APR).",
+      "Cap credit limit enhancements for the first 6 months on book."
+    ],
+    "underwriter_memo_narrative": "Strong debt-servicing capacity and clean recent credit discipline offset borderline bureau score.",
+    "evaluation_timestamp": "2026-10-07T21:59:09.406274",
+    "engine": "CreditPulse Heuristic Policy Engine v2.4"
+  },
+  {
+    "loan_id": "LN-0000195",
+    "borrower_id": "BW-027367",
+    "application_date": "2024-04-18",
+    "product_type": "Personal Loan",
+    "requested_amount_inr": 165000,
+    "predicted_pd": 0.247,
+    "internal_score": 714,
+    "underwriting_verdict": "APPROVE_WITH_RISK_COVENANTS",
+    "recommended_sanction_inr": 165000,
+    "compensating_factors": [
+      "Near-prime bureau score (787) indicates historical repayment intent.",
+      "Healthy total debt-to-income (26.1%) within safe debt servicing threshold (<50%).",
+      "Conservative credit line utilization (7.5%) indicates credit headroom.",
+      "Low recent inquiry velocity (0 in last 30d) demonstrates controlled credit seeking."
+    ],
+    "risk_flags": [],
+    "prescribed_policy_covenants": [
+      "Mandate automated e-NACH mandate via Primary Salary Bank Account.",
+      "Apply risk-adjusted pricing premium (+75 bps APR).",
+      "Cap credit limit enhancements for the first 6 months on book."
+    ],
+    "underwriter_memo_narrative": "Strong debt-servicing capacity and clean recent credit discipline offset borderline bureau score.",
+    "evaluation_timestamp": "2026-10-07T21:59:09.406322",
+    "engine": "CreditPulse Heuristic Policy Engine v2.4"
+  },
+  {
+    "loan_id": "LN-0000232",
+    "borrower_id": "BW-011080",
+    "application_date": "2025-04-22",
+    "product_type": "Buy Now Pay Later",
+    "requested_amount_inr": 60000,
+    "predicted_pd": 0.2727,
+    "internal_score": 707,
+    "underwriting_verdict": "APPROVE_WITH_RISK_COVENANTS",
+    "recommended_sanction_inr": 60000,
+    "compensating_factors": [
+      "Near-prime bureau score (772) indicates historical repayment intent.",
+      "Conservative credit line utilization (20.0%) indicates credit headroom.",
+      "Low recent inquiry velocity (0 in last 30d) demonstrates controlled credit seeking."
+    ],
+    "risk_flags": [
+      "Elevated DTI (46.2%) poses cash flow squeeze during income shocks."
+    ],
+    "prescribed_policy_covenants": [
+      "Mandate automated e-NACH mandate via Primary Salary Bank Account.",
+      "Apply risk-adjusted pricing premium (+75 bps APR).",
+      "Cap credit limit enhancements for the first 6 months on book."
+    ],
+    "underwriter_memo_narrative": "Strong debt-servicing capacity and clean recent credit discipline offset borderline bureau score.",
+    "evaluation_timestamp": "2026-10-07T21:59:09.406371",
+    "engine": "CreditPulse Heuristic Policy Engine v2.4"
+  },
+  {
+    "loan_id": "LN-0000235",
+    "borrower_id": "BW-046926",
+    "application_date": "2025-02-02",
+    "product_type": "Vehicle Loan",
+    "requested_amount_inr": 70000,
+    "predicted_pd": 0.1359,
+    "internal_score": 757,
+    "underwriting_verdict": "APPROVE_WITH_RISK_COVENANTS",
+    "recommended_sanction_inr": 70000,
+    "compensating_factors": [
+      "Near-prime bureau score (739) indicates historical repayment intent.",
+      "Healthy total debt-to-income (38.2%) within safe debt servicing threshold (<50%).",
+      "Conservative credit line utilization (18.1%) indicates credit headroom.",
+      "Low recent inquiry velocity (0 in last 30d) demonstrates controlled credit seeking."
+    ],
+    "risk_flags": [],
+    "prescribed_policy_covenants": [
+      "Mandate automated e-NACH mandate via Primary Salary Bank Account.",
+      "Apply risk-adjusted pricing premium (+75 bps APR).",
+      "Cap credit limit enhancements for the first 6 months on book."
+    ],
+    "underwriter_memo_narrative": "Strong debt-servicing capacity and clean recent credit discipline offset borderline bureau score.",
+    "evaluation_timestamp": "2026-10-07T21:59:09.406419",
+    "engine": "CreditPulse Heuristic Policy Engine v2.4"
+  },
+  {
+    "loan_id": "LN-0000257",
+    "borrower_id": "BW-005146",
+    "application_date": "2024-06-09",
+    "product_type": "Buy Now Pay Later",
+    "requested_amount_inr": 45000,
+    "predicted_pd": 0.2533,
+    "internal_score": 712,
+    "underwriting_verdict": "APPROVE_WITH_RISK_COVENANTS",
+    "recommended_sanction_inr": 45000,
+    "compensating_factors": [
+      "Near-prime bureau score (748) indicates historical repayment intent.",
+      "Healthy total debt-to-income (43.7%) within safe debt servicing threshold (<50%).",
+      "Conservative credit line utilization (7.3%) indicates credit headroom.",
+      "Low recent inquiry velocity (0 in last 30d) demonstrates controlled credit seeking."
+    ],
+    "risk_flags": [],
+    "prescribed_policy_covenants": [
+      "Mandate automated e-NACH mandate via Primary Salary Bank Account.",
+      "Apply risk-adjusted pricing premium (+75 bps APR).",
+      "Cap credit limit enhancements for the first 6 months on book."
+    ],
+    "underwriter_memo_narrative": "Strong debt-servicing capacity and clean recent credit discipline offset borderline bureau score.",
+    "evaluation_timestamp": "2026-10-07T21:59:09.406466",
+    "engine": "CreditPulse Heuristic Policy Engine v2.4"
+  },
+  {
+    "loan_id": "LN-0000275",
+    "borrower_id": "BW-040699",
+    "application_date": "2024-12-05",
+    "product_type": "Buy Now Pay Later",
+    "requested_amount_inr": 30000,
+    "predicted_pd": 0.2006,
+    "internal_score": 730,
+    "underwriting_verdict": "APPROVE_WITH_RISK_COVENANTS",
+    "recommended_sanction_inr": 30000,
+    "compensating_factors": [
+      "Near-prime bureau score (732) indicates historical repayment intent.",
+      "Healthy total debt-to-income (22.6%) within safe debt servicing threshold (<50%).",
+      "Conservative credit line utilization (33.0%) indicates credit headroom.",
+      "Low recent inquiry velocity (1 in last 30d) demonstrates controlled credit seeking."
+    ],
+    "risk_flags": [],
+    "prescribed_policy_covenants": [
+      "Mandate automated e-NACH mandate via Primary Salary Bank Account.",
+      "Apply risk-adjusted pricing premium (+75 bps APR).",
+      "Cap credit limit enhancements for the first 6 months on book."
+    ],
+    "underwriter_memo_narrative": "Strong debt-servicing capacity and clean recent credit discipline offset borderline bureau score.",
+    "evaluation_timestamp": "2026-10-07T21:59:09.406514",
+    "engine": "CreditPulse Heuristic Policy Engine v2.4"
+  },
+  {
+    "loan_id": "LN-0000287",
+    "borrower_id": "BW-002317",
+    "application_date": "2025-01-24",
+    "product_type": "Mortgage",
+    "requested_amount_inr": 415000,
+    "predicted_pd": 0.1412,
+    "internal_score": 754,
+    "underwriting_verdict": "APPROVE_WITH_RISK_COVENANTS",
+    "recommended_sanction_inr": 415000,
+    "compensating_factors": [
+      "Near-prime bureau score (749) indicates historical repayment intent.",
+      "Healthy total debt-to-income (38.5%) within safe debt servicing threshold (<50%).",
+      "Conservative credit line utilization (14.1%) indicates credit headroom.",
+      "Low recent inquiry velocity (0 in last 30d) demonstrates controlled credit seeking."
+    ],
+    "risk_flags": [],
+    "prescribed_policy_covenants": [
+      "Mandate automated e-NACH mandate via Primary Salary Bank Account.",
+      "Apply risk-adjusted pricing premium (+75 bps APR).",
+      "Cap credit limit enhancements for the first 6 months on book."
+    ],
+    "underwriter_memo_narrative": "Strong debt-servicing capacity and clean recent credit discipline offset borderline bureau score.",
+    "evaluation_timestamp": "2026-10-07T21:59:09.406563",
+    "engine": "CreditPulse Heuristic Policy Engine v2.4"
+  },
+  {
+    "loan_id": "LN-0000291",
+    "borrower_id": "BW-013351",
+    "application_date": "2024-11-21",
+    "product_type": "Business Loan",
+    "requested_amount_inr": 110000,
+    "predicted_pd": 0.1731,
+    "internal_score": 740,
+    "underwriting_verdict": "APPROVE_WITH_RISK_COVENANTS",
+    "recommended_sanction_inr": 110000,
+    "compensating_factors": [
+      "Near-prime bureau score (831) indicates historical repayment intent.",
+      "Conservative credit line utilization (6.9%) indicates credit headroom.",
+      "Low recent inquiry velocity (0 in last 30d) demonstrates controlled credit seeking."
+    ],
+    "risk_flags": [
+      "Elevated DTI (47.9%) poses cash flow squeeze during income shocks."
+    ],
+    "prescribed_policy_covenants": [
+      "Mandate automated e-NACH mandate via Primary Salary Bank Account.",
+      "Apply risk-adjusted pricing premium (+75 bps APR).",
+      "Cap credit limit enhancements for the first 6 months on book."
+    ],
+    "underwriter_memo_narrative": "Strong debt-servicing capacity and clean recent credit discipline offset borderline bureau score.",
+    "evaluation_timestamp": "2026-10-07T21:59:09.406614",
+    "engine": "CreditPulse Heuristic Policy Engine v2.4"
+  },
+  {
+    "loan_id": "LN-0000302",
+    "borrower_id": "BW-037285",
+    "application_date": "2025-10-08",
+    "product_type": "Buy Now Pay Later",
+    "requested_amount_inr": 15000,
+    "predicted_pd": 0.1851,
+    "internal_score": 736,
+    "underwriting_verdict": "APPROVE_WITH_RISK_COVENANTS",
+    "recommended_sanction_inr": 15000,
+    "compensating_factors": [
+      "Near-prime bureau score (735) indicates historical repayment intent.",
+      "Healthy total debt-to-income (18.3%) within safe debt servicing threshold (<50%).",
+      "Conservative credit line utilization (18.3%) indicates credit headroom.",
+      "Low recent inquiry velocity (1 in last 30d) demonstrates controlled credit seeking."
+    ],
+    "risk_flags": [],
+    "prescribed_policy_covenants": [
+      "Mandate automated e-NACH mandate via Primary Salary Bank Account.",
+      "Apply risk-adjusted pricing premium (+75 bps APR).",
+      "Cap credit limit enhancements for the first 6 months on book."
+    ],
+    "underwriter_memo_narrative": "Strong debt-servicing capacity and clean recent credit discipline offset borderline bureau score.",
+    "evaluation_timestamp": "2026-10-07T21:59:09.406662",
+    "engine": "CreditPulse Heuristic Policy Engine v2.4"
+  },
+  {
+    "loan_id": "LN-0000336",
+    "borrower_id": "BW-038995",
+    "application_date": "2024-05-22",
+    "product_type": "Buy Now Pay Later",
+    "requested_amount_inr": 45000,
+    "predicted_pd": 0.2402,
+    "internal_score": 716,
+    "underwriting_verdict": "APPROVE_WITH_RISK_COVENANTS",
+    "recommended_sanction_inr": 45000,
+    "compensating_factors": [
+      "Near-prime bureau score (748) indicates historical repayment intent.",
+      "Conservative credit line utilization (7.3%) indicates credit headroom.",
+      "Low recent inquiry velocity (0 in last 30d) demonstrates controlled credit seeking."
+    ],
+    "risk_flags": [
+      "Elevated DTI (52.8%) poses cash flow squeeze during income shocks."
+    ],
+    "prescribed_policy_covenants": [
+      "Mandate automated e-NACH mandate via Primary Salary Bank Account.",
+      "Apply risk-adjusted pricing premium (+75 bps APR).",
+      "Cap credit limit enhancements for the first 6 months on book."
+    ],
+    "underwriter_memo_narrative": "Strong debt-servicing capacity and clean recent credit discipline offset borderline bureau score.",
+    "evaluation_timestamp": "2026-10-07T21:59:09.406710",
+    "engine": "CreditPulse Heuristic Policy Engine v2.4"
+  },
+  {
+    "loan_id": "LN-0000344",
+    "borrower_id": "BW-019867",
+    "application_date": "2024-03-02",
+    "product_type": "Personal Loan",
+    "requested_amount_inr": 60000,
+    "predicted_pd": 0.2687,
+    "internal_score": 708,
+    "underwriting_verdict": "APPROVE_WITH_RISK_COVENANTS",
+    "recommended_sanction_inr": 60000,
+    "compensating_factors": [
+      "Near-prime bureau score (777) indicates historical repayment intent.",
+      "Healthy total debt-to-income (26.5%) within safe debt servicing threshold (<50%).",
+      "Conservative credit line utilization (10.4%) indicates credit headroom.",
+      "Low recent inquiry velocity (0 in last 30d) demonstrates controlled credit seeking."
+    ],
+    "risk_flags": [],
+    "prescribed_policy_covenants": [
+      "Mandate automated e-NACH mandate via Primary Salary Bank Account.",
+      "Apply risk-adjusted pricing premium (+75 bps APR).",
+      "Cap credit limit enhancements for the first 6 months on book."
+    ],
+    "underwriter_memo_narrative": "Strong debt-servicing capacity and clean recent credit discipline offset borderline bureau score.",
+    "evaluation_timestamp": "2026-10-07T21:59:09.406758",
+    "engine": "CreditPulse Heuristic Policy Engine v2.4"
+  }
+]

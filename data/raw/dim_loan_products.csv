@@ -1,0 +1,6 @@
+product_id,product_name,product_category,secured_flag,annual_interest_rate_pct,default_tenor_months,min_cibil_threshold
+PL-UNSEC,Digital Personal Loan,Personal Loan,0,15.5,24,650
+BNPL-CD,Consumer Durable BNPL,Buy Now Pay Later,0,13.0,6,620
+AUTO-2W,Two-Wheeler EV Loan,Vehicle Loan,1,11.5,24,600
+SME-WC,Merchant Working Capital,Business Loan,0,18.0,12,680
+LAP-MICRO,Micro Loan Against Property,Mortgage,1,10.2,36,650
