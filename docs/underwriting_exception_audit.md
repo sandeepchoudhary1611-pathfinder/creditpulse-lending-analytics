@@ -1,6 +1,6 @@
 # CreditPulse Underwriting Exception & Referral Triage Report
 
-**Generated:** 2026-10-07 21:59:09  
+**Generated:** 2026-10-07 22:22:39  
 **Underwriting Policy Framework:** FinTech Digital NBFC Risk Standards  
 **Total Referrals Triaged:** 25
 
